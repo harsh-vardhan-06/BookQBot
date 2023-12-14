@@ -1,0 +1,17 @@
+pandas
+streamlit
+pandas-datareader
+unstructured
+tiktoken
+pinecone-client
+openai
+langchain
+pandas
+numpy
+pypdf2
+pinecone-client
+python-dotenv
+zipp
+sentence-transformers
+instructorembedding
+# faiss-gpu (use conda to install in fast )
